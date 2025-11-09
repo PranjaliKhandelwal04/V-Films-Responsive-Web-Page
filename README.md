@@ -36,6 +36,7 @@ npm install
 
 # Step 4: Start the development server
 npm run dev
+
 After running the final command, open your browser at the given localhost URL (usually http://localhost:5173).
 
 Deployment:
@@ -50,4 +51,5 @@ GitHub Pages
 To build the project for deployment:
 
 npm run build
+
 This command creates a dist/ folder containing optimized static files. Deploy this folder to your preferred hosting provider.
