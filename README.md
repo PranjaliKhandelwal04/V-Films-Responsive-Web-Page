@@ -13,9 +13,13 @@ This project uses a lightweight development stack optimized for rapid developmen
 
 Technologies Used:
 Vite (build and development tool)
+
 React (UI library)
+
 TypeScript (type-safe JavaScript)
+
 Tailwind CSS (utility-first CSS framework)
+
 shadcn-ui (accessible and styled UI components)
 
 Getting Started
@@ -38,7 +42,9 @@ Deployment:
 You can deploy the production build to any static hosting platform such as:
 
 Netlify
+
 Vercel
+
 GitHub Pages
 
 To build the project for deployment:
